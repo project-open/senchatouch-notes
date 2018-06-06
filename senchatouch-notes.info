@@ -15,17 +15,15 @@
         <summary>Sencha Touch Notes Demo Application</summary>
         <release-date>2016-11-15</release-date>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <description format="text/plain">Allows users to list and create notes.</description>
         <maturity>0</maturity>
-
         <provides url="senchatouch-notes" version="0.1d"/>
         <requires url="senchatouch-v211" version="0.1d"/>
-
         <callbacks>
         </callbacks>
         <parameters>
         <!-- No version parameters -->
         </parameters>
-
     </version>
 </package>
